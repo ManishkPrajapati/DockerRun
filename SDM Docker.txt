@@ -1,0 +1,28 @@
+UserName == rohitsureshsutar2000
+Password == Atpadi@12345
+
+npm init
+npm install
+npm i express
+
+
+
+git clone 
+go into folder
+
+
+sudo apt update
+sudo apt install docker.io
+sudo systemctl status docker  or  system systemctl start docker
+
+sudo docker build -t give_filename .
+sudo docker run -it -p 8000(which to use):8000(given in file) filename_you_gave
+
+
+
+sudo docker ps
+sudo docker kill containerID
+
+
+sudo docker images
+sudo docker rmi imageID --force
